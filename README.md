@@ -1,2 +1,3 @@
 # GO_LANG
-THIS
+
+Aim :- To implement merge sort using go language  
