@@ -1,4 +1,4 @@
-# GO_LANG
+# Merge Sort
 
 # About
 Using Go Programming Language implement merge sort.
