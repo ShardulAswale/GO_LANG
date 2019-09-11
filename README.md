@@ -9,9 +9,9 @@ Using Go Programming Language implement merge sort
   3. Sleep:-
 
 # Imports used:-
-  fmt
-  Math/rand
-  time
+  1. fmt
+  2. Math/rand
+  3. time
 
 # How to Run
 Install Go in your system (Refer this)
