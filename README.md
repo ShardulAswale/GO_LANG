@@ -22,4 +22,4 @@ $ cd Directory where file is saved
 $ go run sort.go
 
 # Author
-Jigyasu Prakash - JigyasuPrakash
+unrealdoc - Shardul Aswale
