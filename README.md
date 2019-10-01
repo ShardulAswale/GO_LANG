@@ -32,8 +32,8 @@ The first element of both lists is compared. If sorting in ascending order, the 
 
 # How to Run
 Install Go in your system (Refer this)
-Set up system environment variable
-Follow steps below
+
+Set up system environment variable then follow the steps below
 
 $ cd ~Directory where file is saved
 
