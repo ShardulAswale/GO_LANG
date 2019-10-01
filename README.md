@@ -34,7 +34,8 @@ The first element of both lists is compared. If sorting in ascending order, the 
 Install Go in your system (Refer this)
 Set up system environment variable
 Follow steps below
-$ cd Directory where file is saved
+
+$ cd ~Directory where file is saved
 
 $ go run sort.go
 
