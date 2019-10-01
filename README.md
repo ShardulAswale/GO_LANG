@@ -20,7 +20,6 @@ Repeatedly merge sublists to produce newly sorted sublists until there is only 1
 Merging of two lists done as follows:
 The first element of both lists is compared. If sorting in ascending order, the smaller element among two becomes a new element of the sorted list. This procedure is repeated until both the smaller sublists are empty and the newly combined sublist covers all the elements of both the sublists.
 
-Merging Two Lists
 # Components used:-
   1. Slice:- Dyanamic array.
   2. Rand:- used to generate random elements between a range and of a specific type. 
