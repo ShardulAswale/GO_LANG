@@ -38,7 +38,8 @@ Set up system environment variable then follow the steps below
 $ cd ~Directory where file is saved
 
 $ go run sort.go
-
+## Or to run online
+ - Go to https://repl.it/@ShardulAswale/merge-sort
 # Author
 
 Top-down Merge Sort Implementation:
