@@ -29,9 +29,7 @@ func main() {
 			time.Sleep(1 * time.Second)
 			fmt.Print("  *")
 		}
-		var start time
-		start = time.Now().Unix()
-		fmt.Println(start)
+
 		fmt.Println("\n--- Sorted ---\n\n", mergeSorta(slice), "\n")
 	case 2:
 		fmt.Println("You choose descending order")
